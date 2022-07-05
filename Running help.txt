@@ -1,0 +1,23 @@
+1.javac Program.java
+2.java Program
+3.You can send message to person who has information what you inputed.
+---You must input something---
+*src/cmd.exe
+It's IP:192.168.104.30
+------------------
+name:Maien
+source port:10
+Destination IP:192.168.104.20
+Destination port :11
+
+*src/cmd.exe
+It's IP:192.168.104.20
+------------------
+name:Peisia
+source port :11
+Destination IP:192.168.104.30
+Destination port:10
+
+-------------------
+Then you can chat in secret each other...:)
+
